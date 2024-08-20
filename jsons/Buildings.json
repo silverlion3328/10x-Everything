@@ -1,5 +1,15 @@
 [
     {
+		"name": "10x more tile yield activated!",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [ "Automatically built in all cities where it is buildable",
+		    "Limited to [1] per Civilization",
+		    "Unbuildable <for [AI player]>",
+		    "[900]% Yield from every [Terrain] <for [Human player]>"]
+	},
+    {
         "name": "Palace",
         "isNationalWonder": true,
         "production": 3,
